@@ -1,4 +1,14 @@
-
+<!--
+                                _     _                     _       _   _          _                               _    
+     /\                        | |   | |                   | |     | \ | |        | |                             | |   
+    /  \     _ __ ___     ___  | |_  | |__    _   _   ___  | |_    |  \| |   ___  | |_  __      __   ___    _ __  | | __
+   / /\ \   | '_ ` _ \   / _ \ | __| | '_ \  | | | | / __| | __|   | . ` |  / _ \ | __| \ \ /\ / /  / _ \  | '__| | |/ /
+  / ____ \  | | | | | | |  __/ | |_  | | | | | |_| | \__ \ | |_    | |\  | |  __/ | |_   \ V  V /  | (_) | | |    |   < 
+ /_/    \_\ |_| |_| |_|  \___|  \__| |_| |_|  \__, | |___/  \__|   |_| \_|  \___|  \__|   \_/\_/    \___/  |_|    |_|\_\
+                                               __/ |                                                                    
+                                              |___/                                                                     
+-->
+<!-- The font is called Big, if you are wondering -->
 <div align="center">
          
 <img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/IDontCodee/Incognito/main/static/index.svg">
@@ -25,8 +35,7 @@
 
 ## Discord Server
 
-<a class="discord-widget" href="https://discord.gg/J3VPy5Vy8x" title="Join us on Discord">
-<img src="https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light"></a>
+[![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
 
 ## Overview
 
@@ -48,7 +57,9 @@
 
 **How can I get official Incognito domains?**
 
-You should join the official [Titanium Network Discord](https://discord.gg/unblock) for official links
+You should join the official Titanium Network Discord for official links
+
+[![Titanium Network Discord](https://invidget.switchblade.xyz/unblock?theme=light)](https://discord.gg/unblock)
 
 **Who is this repo for?**
 
